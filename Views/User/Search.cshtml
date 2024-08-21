@@ -1,0 +1,26 @@
+@model IEnumerable<MyMvcApp.Models.User>
+
+<h2>Search Results</h2>
+
+<form method="get" action="/User/Search">
+    <input type="text" name="searchTerm" placeholder="Search users..." />
+    <button type="submit">Search</button>
+</form>
+
+<table>
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var user in Model)
+        {
+            <tr>
+                <td>@user.Id</td>
+                <td>@user.Name</td>
+            </tr>
+        }
+    </tbody>
+</table>

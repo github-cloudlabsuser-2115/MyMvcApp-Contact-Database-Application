@@ -9,6 +9,14 @@
 <p>
     @Html.ActionLink("Create New", "Create", "User")
 </p>
+
+<!-- Search Form -->
+<form method="get" action="/User/Index">
+    <label for="searchTerm">Find by name:</label>
+    <input type="text" id="searchTerm" name="searchTerm" placeholder="Enter name" />
+    <button type="submit">Search</button>
+</form>
+
 <table class="table">
     <tr>
         <th>
