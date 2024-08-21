@@ -1,0 +1,14 @@
+C:\azureuser\Github Copilot\MyMvcApp-Contact-Database-Application\bin\Release\net8.0\publish\MyMvcApp.exe
+C:\azureuser\Github Copilot\MyMvcApp-Contact-Database-Application\bin\Release\net8.0\publish\appsettings.Development.json
+C:\azureuser\Github Copilot\MyMvcApp-Contact-Database-Application\bin\Release\net8.0\publish\appsettings.json
+C:\azureuser\Github Copilot\MyMvcApp-Contact-Database-Application\bin\Release\net8.0\publish\deploy.json
+C:\azureuser\Github Copilot\MyMvcApp-Contact-Database-Application\bin\Release\net8.0\publish\deploy.parameters.json
+C:\azureuser\Github Copilot\MyMvcApp-Contact-Database-Application\bin\Release\net8.0\publish\scriptcs_bin\Debug\net8.0\appsettings.Development.json
+C:\azureuser\Github Copilot\MyMvcApp-Contact-Database-Application\bin\Release\net8.0\publish\scriptcs_bin\Debug\net8.0\appsettings.json
+C:\azureuser\Github Copilot\MyMvcApp-Contact-Database-Application\bin\Release\net8.0\publish\scriptcs_bin\Debug\net8.0\MyMvcApp.deps.json
+C:\azureuser\Github Copilot\MyMvcApp-Contact-Database-Application\bin\Release\net8.0\publish\scriptcs_bin\Debug\net8.0\MyMvcApp.runtimeconfig.json
+C:\azureuser\Github Copilot\MyMvcApp-Contact-Database-Application\bin\Release\net8.0\publish\scriptcs_bin\Debug\net8.0\MyMvcApp.staticwebassets.runtime.json
+C:\azureuser\Github Copilot\MyMvcApp-Contact-Database-Application\bin\Release\net8.0\publish\MyMvcApp.dll
+C:\azureuser\Github Copilot\MyMvcApp-Contact-Database-Application\bin\Release\net8.0\publish\MyMvcApp.deps.json
+C:\azureuser\Github Copilot\MyMvcApp-Contact-Database-Application\bin\Release\net8.0\publish\MyMvcApp.runtimeconfig.json
+C:\azureuser\Github Copilot\MyMvcApp-Contact-Database-Application\bin\Release\net8.0\publish\MyMvcApp.pdb
